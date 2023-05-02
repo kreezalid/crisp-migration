@@ -1,0 +1,19 @@
+# DATABASE WITH THE CONTENT TO CONVERT
+DB_TYPE=db_type
+DB_HOST=db_host
+DB_NAME=db_name
+DB_USER=db_user
+DB_PASS=db_password
+DB_TABLE=db_table
+DB_HTML_COLUMN=db_html_column
+DB_MD_COLUMN=db_md_column
+DB_TITLE_COLUMN=db_title_column
+DB_DESCRIPTION_COLUMN=db_description_column
+DB_CRISP_ID_COLUMN=db_crisp_id_column
+DB_LOADED_COLUMN=db_loaded_column
+
+# API CREDENTIALS
+WEBSITE_ID=website_id
+API_IDENTIFIER=api_identifier
+API_KEY=api_key
+API_LOCALE=api_locale # en, fr, en-us, ...

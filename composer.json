@@ -1,0 +1,8 @@
+{
+	"require": {
+		"league/html-to-markdown": "^5.1",
+		"symfony/http-client": "^6.2",
+		"php-http/message-factory": "^1.0",
+		"nyholm/psr7": "^1.5"
+	}
+}
